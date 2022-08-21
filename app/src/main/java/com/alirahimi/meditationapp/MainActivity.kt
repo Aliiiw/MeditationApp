@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                     HeaderProfile()
                     SearchBar()
                     FilterOptions()
+                    MeditationTypes()
 
                 }
             }
