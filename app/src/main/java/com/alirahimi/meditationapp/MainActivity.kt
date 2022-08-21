@@ -20,7 +20,10 @@ class MainActivity : ComponentActivity() {
                         .background(Grey)
                         .fillMaxSize()
                 ) {
+
                     HeaderProfile()
+                    SearchBar()
+
                 }
             }
         }
